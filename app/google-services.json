@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906571072182",
+    "project_id": "dzaan-magari-davaleba",
+    "storage_bucket": "dzaan-magari-davaleba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906571072182:android:d72e452564c93c356c9c17",
+        "android_client_info": {
+          "package_name": "com.example.davalebani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906571072182-8rtveba3m6glc87oghdsa8mo408rkc25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjh7SBZvFYQhqNhf9jErYb6fC0DaEf56I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906571072182-8rtveba3m6glc87oghdsa8mo408rkc25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
